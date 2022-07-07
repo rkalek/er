@@ -49,21 +49,13 @@ padding:0 0 .4em
 
 
 html {
-
-  background: #ffffff;
-
-}
-body {
-        height: 100vh;
+   height: 100vh;
         width: 100vw;
         background-image: url('https://rkalek.github.io/er/bg3.png');
         background-repeat : no-repeat;
         background-size : cover;
         background-attachment:scroll;
-      }
-
-
-
+}
 
 @font-face {
     font-family: 'yg-jalnan';
