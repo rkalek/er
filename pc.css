@@ -1,6 +1,6 @@
 :root {
 
-  --color-0: #a2f9d5; /* box color */
+  --color-0: linear-gradient(to bottom, #ffffff, #bbf8ff);; /* box color */
 
 
 
@@ -49,8 +49,6 @@ padding:0 0 .4em
 html {
 
   background: url('https://rkalek.github.io/er/bg3.png');
-
-  height: auto !important;
 
 }
 
@@ -192,7 +190,7 @@ cursor: url("https://rkalek.github.io/er/ct1.png") 0 0, auto !important;
 #board-info img{
 
 float:left !important;
-border: 2px SOLID #ec7a75;
+border: 2px SOLID #647645;
 
 /* display: none; */
 
@@ -317,7 +315,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: #cfe296; /* 좌측 배너 제목 배경 색 */
+    background: #647645; /* 좌측 배너 제목 배경 색 */
 
     border-radius: 15px 15px 0 0;
 
@@ -371,7 +369,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area {
 
-    color: #9cff00; /* 접속자 수 글씨 색 */
+    color: #f57070; /* 접속자 수 글씨 색 */
 
 }
 
