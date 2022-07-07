@@ -1,6 +1,6 @@
 :root {
 
-  --color-0: linear-gradient(to bottom, #ffffff, #bbf8ff);; /* box color */
+  --color-0: #ffffff; /* box color */
 
 
 
@@ -53,23 +53,6 @@ html {
 }
 
 
-body {
-   
-background: transparent;
-
-animation: snow 20s linear infinite;
-
- background-image:url('https://rkalek.github.io/er/666.png'),
- url("https://rkalek.github.io/er/666.png"),
- url("https://rkalek.github.io/er/666.png");
-}
-@keyframes snow {
-
-0% {background-position: 0px 1000px, 0px 200px, 700px 1000px;}
-
-100% {background-position: 500px 0px, 200px 0px, 0px 0px;}
-
-}
 
 
 
