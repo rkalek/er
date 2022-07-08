@@ -49,13 +49,18 @@ padding:0 0 .4em
 
 
 html {
-body{
 
-        background-image: url('https://rkalek.github.io/er/bg3.png');
-        background-repeat : no-repeat;
+}
+body {
+   
+background: transparent;
+
+
+
+ background-image:url('https://rkalek.github.io/er/bg3.png');
+background-repeat : no-repeat;
         background-size : 100%;
         background-attachment:scroll;
-}
 }
 
 @font-face {
