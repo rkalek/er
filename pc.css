@@ -54,8 +54,6 @@ html {
 body {
    
  background-image:url('https://rkalek.github.io/er/bg5.png');
-background-repeat : no-repeat;
-        background-size : 100%;
         background-attachment: fixed;
 }
 
