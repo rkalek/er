@@ -45,17 +45,19 @@ padding:0 0 .4em
 
 }
 
+header,body,footer {background: none;}
 
-
-
-html {
-
-}
 body {
-   
- background-image:url('https://rkalek.github.io/er/bg5.png');
-        background-attachment: fixed;
+
+   background: url("https://rkalek.github.io/er/bg5.png");
+
+  height: auto !important;
+background-size: 100%;
+
+background-position: 0;
 }
+
+
 
 @font-face {
     font-family: 'yg-jalnan';
