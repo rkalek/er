@@ -49,29 +49,11 @@ header,body,footer {background: none;}
 
 html {
 
-   background: #ffffff;
+   background: url("https://rkalek.github.io/er/bg5.png");
 
   height: auto !important;
 
 }
-
-
-body {
-   
-background: transparent;
-
-animation: snow 20s linear infinite;
-
- url("https://rkalek.github.io/er/bg5.png");
-}
-@keyframes snow {
-
-0% {background-position: 0px 0px;}
-
-100% {background-position: 0px 0px;}
-
-}
-
 
 
 
