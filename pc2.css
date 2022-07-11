@@ -52,7 +52,9 @@ html {
    background: url("https://rkalek.github.io/er/bg5.png");
 
   height: auto !important;
+background-size: 100%;
 
+background-position: 0;
 }
 
 
