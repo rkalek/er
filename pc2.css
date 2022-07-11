@@ -45,17 +45,33 @@ padding:0 0 .4em
 
 }
 
-
-
-
 html {
 
+   background: #ffffff;
+
+  height: auto !important;
+
 }
+
+
 body {
    
- background-image:url('https://rkalek.github.io/er/bg5.png');
-        background-attachment: fixed;
+background: transparent;
+
+animation: snow 20s linear infinite;
+
+ url("https://rkalek.github.io/er/bg5.png");
 }
+@keyframes snow {
+
+0% {background-position: 0px 0px;}
+
+100% {background-position: 0px 0px;}
+
+}
+
+
+
 
 @font-face {
     font-family: 'yg-jalnan';
