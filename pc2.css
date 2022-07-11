@@ -45,6 +45,8 @@ padding:0 0 .4em
 
 }
 
+header,body,footer {background: none;}
+
 html {
 
    background: #ffffff;
