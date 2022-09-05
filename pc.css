@@ -229,7 +229,7 @@ header #right-search-form>#right-search-btn {
 }
 #article-list>.article-list-row>.item>.list-title>a:visited {
 
-    color: #3a3a3a !important; /* 읽은 글 색상 코드 입력 */
+    color: ##bdac62 !important; /* 읽은 글 색상 코드 입력 */
 
 }
 
